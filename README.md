@@ -70,7 +70,7 @@ The list below is based on the curriculum v1.0. Once you have mastered a section
   - [ ] API Primitives
   - [ ] Create and Configure Basic Pods
 - [ ] __Configuration - 18%__
-  - [ ] Understand ConfigMaps
+  - [x] Understand ConfigMaps
   - [ ] Understand SecurityContexts
   - [ ] Define App Resource Requirements
   - [ ] Create and Consume Secrets
